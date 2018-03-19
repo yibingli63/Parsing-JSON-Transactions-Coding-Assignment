@@ -1,0 +1,7 @@
+{"transactions": [
+{"id": "10001", "accountId": "222333", "postDate": "2014-08-12", "merchantName": "Starbucks",      "category": "Dining",           "type": "DEBIT",  "amount":"10.322"},
+{"id": "10002", "accountId": "222333", "postDate": "2014-07-29", "merchantName": "Dennys",         "category": "Dining",           "type": "DEBIT",  "amount":"32.12"},
+{"id": "10003", "accountId": "222333", "postDate": "2014-08-05", "merchantName": "Home Depot",     "category": "Home Improvement", "type": "DEBIT",  "amount":"344.93"}, 
+{"id": "10004", "accountId": "222333", "postDate": "2014-08-10", "merchantName": "Online Payment", "category": "Payment/Credit",   "type": "CREDIT", "amount":"200.00"}, 
+{"id": "10005", "accountId": "222333", "postDate": "2014-09-01", "merchantName": "Subway",         "category": "Dining",           "type": "DEBIT",  "amount":"5.582"}
+]}
